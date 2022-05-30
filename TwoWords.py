@@ -429,7 +429,7 @@ if __name__ == '__main__':
 
     inputs, labels, terms, ind_inputs, ind_labels, hypers = load_data(args.data_dir, 'train.json', converter)
 
-    model_path = "/mnt/disk/pengbo/workspace/pretrained_models/"
+    model_path = "your model path"
 
     if args.lm == 'BBBV':
         tokenizer = BertTokenizer.from_pretrained(args.from_pretrained)

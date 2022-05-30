@@ -196,7 +196,7 @@ if __name__ == '__main__':
 
     inputs, labels, terms = construct(data, converter)
 
-    model_path = "/mnt/disk/pengbo/workspace/pretrained_models/"
+    model_path = "your model path"
     model = None
 
     if args.lm == 'BBBV':

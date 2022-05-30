@@ -1,0 +1,2458 @@
+[
+  {
+    "term": "Alternative Debenture",
+    "label": "Bonds"
+  },
+  {
+    "term": "Collateralized Debt Obligation",
+    "label": "Bonds"
+  },
+  {
+    "term": "Collateralized Loan Obligation",
+    "label": "Bonds"
+  },
+  {
+    "term": "Collateralized Mortgage Obligation",
+    "label": "Bonds"
+  },
+  {
+    "term": "Contingent Convertible Bonds",
+    "label": "Bonds"
+  },
+  {
+    "term": "CoCo Bonds",
+    "label": "Bonds"
+  },
+  {
+    "term": "Convertible Bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Corporate Bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Corporate Note",
+    "label": "Bonds"
+  },
+  {
+    "term": "Covered Bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Debenture",
+    "label": "Bonds"
+  },
+  {
+    "term": "Enhanced Capital Note",
+    "label": "Bonds"
+  },
+  {
+    "term": "Exchangeable Bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Floating Rate Note",
+    "label": "Bonds"
+  },
+  {
+    "term": "Government Bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Government Bond Index Linked",
+    "label": "Bonds"
+  },
+  {
+    "term": "Inflation Index Security",
+    "label": "Bonds"
+  },
+  {
+    "term": "Interest Rate",
+    "label": "Bonds"
+  },
+  {
+    "term": "Mortgage Backed Security",
+    "label": "Bonds"
+  },
+  {
+    "term": "Municipal Bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Participation Note",
+    "label": "Bonds"
+  },
+  {
+    "term": "Promissory Note",
+    "label": "Bonds"
+  },
+  {
+    "term": "Reverse Convertible Bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Securitised Debenture",
+    "label": "Bonds"
+  },
+  {
+    "term": "Sukuk",
+    "label": "Bonds"
+  },
+  {
+    "term": "Supranational Bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "To Be Announced",
+    "label": "Bonds"
+  },
+  {
+    "term": "Treasury Strip",
+    "label": "Bonds"
+  },
+  {
+    "term": "Currency Forward",
+    "label": "Forward"
+  },
+  {
+    "term": "Non-Deliverable Forward",
+    "label": "Forward"
+  },
+  {
+    "term": "Forwards",
+    "label": "Forward"
+  },
+  {
+    "term": "FX Forward",
+    "label": "Forward"
+  },
+  {
+    "term": "Global Depositary Receipt",
+    "label": "Forward"
+  },
+  {
+    "term": "Closed End AIF",
+    "label": "Funds"
+  },
+  {
+    "term": "Closed End Fund",
+    "label": "Funds"
+  },
+  {
+    "term": "Closed End Fund Constituting Transferable Security",
+    "label": "Funds"
+  },
+  {
+    "term": "Exchange Traded Fund",
+    "label": "Funds"
+  },
+  {
+    "term": "Investment Trust",
+    "label": "Funds"
+  },
+  {
+    "term": "Mutual Investment Funds",
+    "label": "Funds"
+  },
+  {
+    "term": "Open End AIF",
+    "label": "Funds"
+  },
+  {
+    "term": "Open End Fund",
+    "label": "Funds"
+  },
+  {
+    "term": "Real Estate Investment Trust",
+    "label": "Funds"
+  },
+  {
+    "term": "UCITS Scheme",
+    "label": "Funds"
+  },
+  {
+    "term": "Unregulated Collective Investment Schemes",
+    "label": "Funds"
+  },
+  {
+    "term": "Bond Future",
+    "label": "Future"
+  },
+  {
+    "term": "Commodity Future",
+    "label": "Future"
+  },
+  {
+    "term": "Currency Future",
+    "label": "Future"
+  },
+  {
+    "term": "Equity Future",
+    "label": "Future"
+  },
+  {
+    "term": "Futures",
+    "label": "Future"
+  },
+  {
+    "term": "Index Future",
+    "label": "Future"
+  },
+  {
+    "term": "Interest Rate Future",
+    "label": "Future"
+  },
+  {
+    "term": "Single Name Bond Future",
+    "label": "Future"
+  },
+  {
+    "term": "Single Name Equity Future",
+    "label": "Future"
+  },
+  {
+    "term": "Agency Bonds",
+    "label": "MMIs"
+  },
+  {
+    "term": "Certificate of Deposit",
+    "label": "MMIs"
+  },
+  {
+    "term": "Commercial Paper",
+    "label": "MMIs"
+  },
+  {
+    "term": "MMI",
+    "label": "MMIs"
+  },
+  {
+    "term": "Money Market Instrument",
+    "label": "MMIs"
+  },
+  {
+    "term": "Time Deposit",
+    "label": "MMIs"
+  },
+  {
+    "term": "Treasury Bill",
+    "label": "MMIs"
+  },
+  {
+    "term": "Treasury Inflation Protected Securities",
+    "label": "MMIs"
+  },
+  {
+    "term": "Treasury Note",
+    "label": "MMIs"
+  },
+  {
+    "term": "Barrier Option",
+    "label": "Option"
+  },
+  {
+    "term": "Bond Option",
+    "label": "Option"
+  },
+  {
+    "term": "Currency Option",
+    "label": "Option"
+  },
+  {
+    "term": "Equity Option",
+    "label": "Option"
+  },
+  {
+    "term": "Index Option",
+    "label": "Option"
+  },
+  {
+    "term": "Option on Future",
+    "label": "Option"
+  },
+  {
+    "term": "Options",
+    "label": "Option"
+  },
+  {
+    "term": "Plain Vanilla Bond Option",
+    "label": "Option"
+  },
+  {
+    "term": "Plain Vanilla Currency Option",
+    "label": "Option"
+  },
+  {
+    "term": "Plain Vanilla Equity Option",
+    "label": "Option"
+  },
+  {
+    "term": "Plain Vanilla Index Options",
+    "label": "Option"
+  },
+  {
+    "term": "Plain Vanilla Options on Futures",
+    "label": "Option"
+  },
+  {
+    "term": "American Depositary Receipt",
+    "label": "Stocks"
+  },
+  {
+    "term": "Bonus Rights",
+    "label": "Stocks"
+  },
+  {
+    "term": "Common Stock",
+    "label": "Stocks"
+  },
+  {
+    "term": "Convertible Preferred Stock",
+    "label": "Stocks"
+  },
+  {
+    "term": "Partly Paid Securities",
+    "label": "Stocks"
+  },
+  {
+    "term": "Preferred Stock",
+    "label": "Stocks"
+  },
+  {
+    "term": "Rights",
+    "label": "Stocks"
+  },
+  {
+    "term": "Share",
+    "label": "Stocks"
+  },
+  {
+    "term": "Basic Total Return Swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Credit Default Swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Credit Default Swap Index",
+    "label": "Swap"
+  },
+  {
+    "term": "Credit Default Swaptions",
+    "label": "Swap"
+  },
+  {
+    "term": "Credit Linked Notes",
+    "label": "Swap"
+  },
+  {
+    "term": "Currency Swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Index Credit Default Swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Inflation Swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Interest Rate Swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Interest Rate Swaptions",
+    "label": "Swap"
+  },
+  {
+    "term": "Non-Basic Total Return Swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Plain Vanilla Fixed/Floating Rate Inflation Swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Plain Vanilla Swaptions",
+    "label": "Swap"
+  },
+  {
+    "term": "Single Name Credit Default Swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Total Return Swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Variance Swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Volatility Swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Feeder UCITS",
+    "label": "Funds"
+  },
+  {
+    "term": "Cash settled future",
+    "label": "Future"
+  },
+  {
+    "term": "Green bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Index Forward",
+    "label": "Forward"
+  },
+  {
+    "term": "Over-the-counter option",
+    "label": "Option"
+  },
+  {
+    "term": "Restricted securities",
+    "label": "Stocks"
+  },
+  {
+    "term": "Class A shares",
+    "label": "Stocks"
+  },
+  {
+    "term": "Bankers acceptances",
+    "label": "Future"
+  },
+  {
+    "term": "Preference share",
+    "label": "Stocks"
+  },
+  {
+    "term": "Alternative investment fund",
+    "label": "Funds"
+  },
+  {
+    "term": "NDF",
+    "label": "Forward"
+  },
+  {
+    "term": "Commodity index swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Cash-settled option",
+    "label": "Option"
+  },
+  {
+    "term": "IRS",
+    "label": "Swap"
+  },
+  {
+    "term": "TIPS",
+    "label": "MMIs"
+  },
+  {
+    "term": "Bond coupon",
+    "label": "Bonds"
+  },
+  {
+    "term": "Perpetual bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Stock index futures",
+    "label": "Future"
+  },
+  {
+    "term": "Municipal bonds",
+    "label": "Bonds"
+  },
+  {
+    "term": "Class B shares",
+    "label": "Stocks"
+  },
+  {
+    "term": "Eurobond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Commodity future",
+    "label": "Future"
+  },
+  {
+    "term": "Foreign exchange swap",
+    "label": "Swap"
+  },
+  {
+    "term": "High-risk bonds",
+    "label": "Bonds"
+  },
+  {
+    "term": "Cleared swap",
+    "label": "Swap"
+  },
+  {
+    "term": "US stock",
+    "label": "Stocks"
+  },
+  {
+    "term": "Forward swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Buyback option",
+    "label": "Option"
+  },
+  {
+    "term": "T-note",
+    "label": "MMIs"
+  },
+  {
+    "term": "Listed bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Pay-in-kind bonds",
+    "label": "Bonds"
+  },
+  {
+    "term": "Mortgage bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Equity basket swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Equity swap",
+    "label": "Swap"
+  },
+  {
+    "term": "High grade bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Long term bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Inflation indexed bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "International depository receipt",
+    "label": "Stocks"
+  },
+  {
+    "term": "Corporate bond",
+    "label": "Corporate"
+  },
+  {
+    "term": "Hedge fund",
+    "label": "Funds"
+  },
+  {
+    "term": "Dividend future",
+    "label": "Future"
+  },
+  {
+    "term": "Low-risk bonds",
+    "label": "Bonds"
+  },
+  {
+    "term": "Outright Forward",
+    "label": "Forward"
+  },
+  {
+    "term": "Callable bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "UCITS fund",
+    "label": "Funds"
+  },
+  {
+    "term": "Credit enhancement",
+    "label": "MMIs"
+  },
+  {
+    "term": "Reverse convertible bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "FX future",
+    "label": "Future"
+  },
+  {
+    "term": "ABS",
+    "label": "MMIs"
+  },
+  {
+    "term": "Index fund",
+    "label": "Funds"
+  },
+  {
+    "term": "Stock future",
+    "label": "Future"
+  },
+  {
+    "term": "Government bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Large-cap stock",
+    "label": "Stocks"
+  },
+  {
+    "term": "Listed option",
+    "label": "Option"
+  },
+  {
+    "term": "Options on equities",
+    "label": "Option"
+  },
+  {
+    "term": "Federal bond",
+    "label": "MMIs"
+  },
+  {
+    "term": "Zero coupon bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Put option",
+    "label": "Option"
+  },
+  {
+    "term": "Interest rate swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Subordinated bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "OTC options",
+    "label": "Option"
+  },
+  {
+    "term": "Call option",
+    "label": "Option"
+  },
+  {
+    "term": "Options on commodities",
+    "label": "Option"
+  },
+  {
+    "term": "CDS",
+    "label": "Swap"
+  },
+  {
+    "term": "Yankee bonds",
+    "label": "Bonds"
+  },
+  {
+    "term": "Futures on securities",
+    "label": "Future"
+  },
+  {
+    "term": "Bond fund",
+    "label": "Funds"
+  },
+  {
+    "term": "Unit trust",
+    "label": "Funds"
+  },
+  {
+    "term": "E-mini",
+    "label": "Future"
+  },
+  {
+    "term": "Convertible bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Equity default swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Uncleared swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Inflation index swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Bills of exchange",
+    "label": "MMIs"
+  },
+  {
+    "term": "Warrant-linked bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Credit linked notes",
+    "label": "Bonds"
+  },
+  {
+    "term": "FX swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Equity option",
+    "label": "Option"
+  },
+  {
+    "term": "Floating rate note",
+    "label": "Bonds"
+  },
+  {
+    "term": "T-bill",
+    "label": "MMIs"
+  },
+  {
+    "term": "Exchange traded options",
+    "label": "Option"
+  },
+  {
+    "term": "Fixed income future",
+    "label": "Future"
+  },
+  {
+    "term": "Offsetting swap",
+    "label": "Swap"
+  },
+  {
+    "term": "SICAV",
+    "label": "Funds"
+  },
+  {
+    "term": "Collective investment scheme",
+    "label": "Funds"
+  },
+  {
+    "term": "Unfunded TRS",
+    "label": "Swap"
+  },
+  {
+    "term": "Treasury securities",
+    "label": "Stocks"
+  },
+  {
+    "term": "Foreign Exchange Forward",
+    "label": "Forward"
+  },
+  {
+    "term": "Asset-backed securities",
+    "label": "MMIs"
+  },
+  {
+    "term": "Repurchase option",
+    "label": "Option"
+  },
+  {
+    "term": "Depositary receipt",
+    "label": "Stocks"
+  },
+  {
+    "term": "Junk bonds",
+    "label": "Bonds"
+  },
+  {
+    "term": "Pooled fund",
+    "label": "Funds"
+  },
+  {
+    "term": "Fixed-income funds",
+    "label": "Funds"
+  },
+  {
+    "term": "Currency swap",
+    "label": "Swap"
+  },
+  {
+    "term": "EDS",
+    "label": "Swap"
+  },
+  {
+    "term": "Promissory note",
+    "label": "Bonds"
+  },
+  {
+    "term": "Bearer bond",
+    "label": "Bonds"
+  },
+  {
+    "term": "Zero coupon swap",
+    "label": "Swap"
+  },
+  {
+    "term": "Dow Jones Industrial Average",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NASDAQ Composite Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dow Jones Transportation Average",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dow Jones Utility Average Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Global Dow Realtime USD",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NASDAQ Computer Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P 400 Mid Cap Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NASDAQ 100 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NYSE Composite Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P 100 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NYSE Arca Technology 100 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Russell 1000 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Russell 2000 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "PHLX Semiconductor Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "CBOE 10 Year Treasury Note Yield Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "CBOE 30 Year Treasury Bond Yield Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "PHLX Gold/Silver Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NYSE American Composite Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NYSE Arca Major Market Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NYSE Arca Oil Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Nasdaq Bank Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "KBW Nasdaq Bank Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NYSE Arca Biotechnology Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NYSE Arca Pharmaceutical Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NASDAQ Industrials Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NASDAQ Telecommunications Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Nasdaq Biotechnology Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "PHLX Oil Service Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NYSE Arca Technology 100 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P 500 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NYSE Arca Securities Broker/Dealer Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dorsey Wright Sector 4 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dorsey Wright Technical Leaders Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dow Jones U.S. Broad Stock Market Total Return Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dow Jones U.S. Completion Total Stock Market Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dow Jones U.S. Contrarian Opportunities Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dow Jones U.S. Dividend 100 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dow Jones U.S. Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dow Jones U.S. Total Stock Market Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dynamic Market Intellidex Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NASDAQ Clean Edge Green Energy Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NASDAQ OMX Clean Edge Global Wind Energy Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Global Clean Energy Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Global Energy Sector Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Global Nuclear Energy Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Kensho Clean Power Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "WilderHill Clean Energy Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "WilderHill New Energy Global Innovation index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "WilderHill Progressive Energy Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "WNA Nuclear Energy Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Emerging Markets Dividend and Free Cash Flow Yield Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Emerging Markets Dividend Opportunities Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Emerging Markets Strategic Opportunities Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Emerging Markets Under USD2 Billion Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P European Emerging BMI Capped Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Mid-East and Africa BMI Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Momentum Emerging Plus LargeMidCap Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Russia Capped BMI Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P/IFCI Composite Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S-Network Emerging Markets Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Solactive Central Asia & Mongolia Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Solactive Emerging Markets Consumer Technology Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Solactive Most Favored Nations Emerging Markets Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Solactive Next Emerging & Frontier Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Solactive Nigeria Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "TIAA ESG Emerging Markets",
+    "label": "Equity Index"
+  },
+  {
+    "term": "TOBAM Maximum Diversification Emerging Markets Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "WisdomTree Emerging Markets Consumer Growth Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "WisdomTree Emerging Markets Dividend Growth Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "WisdomTree Emerging Markets Dividend Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Bank of New York Mellon Europe 100 ADR Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "DAX Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Defined Europe Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Defined Germany Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Defined Switzerland Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Defined United Kingdom Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "EURO STOXX 50 Hedged USD Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "EURO STOXX 50 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "EURO STOXX Small Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE 100 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE Custom Developed ex US Ultra Dividend Revenue Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE Developed Europe 100% Hedged to USD Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE Developed Europe 50% Hedged to USD Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE Developed Europe Capped Hedged to USD Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE Developed Europe Capped Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE Developed Europe Diversified Factor 100% Hedged to USD Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE Developed Europe Diversified Factor Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE Developed Europe Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE Europe Qual / Vol / Yield Factor 5% Capped Hedged 100% to USD Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE Europe Qual / Vol / Yield Factor 5% Capped Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE France Capped Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE Germany Capped Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE Italy Capped Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE Nordic 30 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE Norway 30 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE Portugal 20 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE RAFI Europe Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE Switzerland Capped Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE UK Capped Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE/Athex 20 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Goldman Sachs ActiveBeta Europe",
+    "label": "Equity Index"
+  },
+  {
+    "term": "IPOX 100 Europe Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Market Vectors Germany Small-Cap Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Morningstar Developed Europe Target Market Exposure Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI All Country Europe Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Austria Investable Market Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Belgium Investable Market Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Denmark IMI 25/50 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI EMU 100% USD Hedged Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI EMU Adaptive Hedge to USD Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI EMU High Dividend Yield US Dollar Hedged Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI EMU IMI U.S. Dollar Hedged Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI EMU Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Europe Dividend Masters Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Europe ex-UK Small Cap Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Europe Growth Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Europe Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Europe Investable Market Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Europe Minimum Volatility (USD) 100% Hedged to USD Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Europe Minimum Volatility (USD) Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Europe Small Cap 100% Hedged to USD Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Europe Small Cap Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Europe US Dollar Hedged Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Finland IMI 25/50 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI France Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Germany 100% Hedged to USD Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Germany Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Germany Quality Mix A-Series Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Germany Small Cap Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Germany U.S. Dollar Hedged Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Ireland Investable Market 25/50 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Italy 25/50 100% Hedged to USD Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Italy 25/50 US Dollar Hedged Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Italy Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Netherlands Investable Market Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Norway IMI 25/50 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Southern Europe U.S. Dollar Hedged Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Spain 25/50 100% Hedged to USD Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Spain 25/50 U.S. Dollar Hedged Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Spain Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Spain Quality Mix A-Series Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Sweden Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Switzerland 25/50 100% Hedged to USD Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Switzerland Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI UK Quality Mix A-Series Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI United Kingdom 100% Hedged to USD Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI United Kingdom Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI United Kingdom Small Cap Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI United Kingdom US Dollar Hedged Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NASDAQ AlphaDEX Eurozone Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NASDAQ AlphaDEX Germany Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NASDAQ AlphaDEX Switzerland Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NASDAQ AlphaDEX United Kingdom Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NASDAQ Eurozone Large Mid Cap Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NASDAQ Germany Large Mid Cap Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Pacer Autopilot Hedged European Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Pacer Trendpilot European Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Europe 350 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Eurozone Low Volatility USD Hedged Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Scientific Beta Developed Europe Multi-Beta Multi-Strategy Equal Weight Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Scientific Beta Extended Europe Multi-Beta Multi-Strategy Equal Risk Contribution Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Solactive GBS Germany Large & Mid Cap Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Solactive GBS United Kingdom Large & Mid Cap Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "STOXX Europe 50 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "STOXX Europe 50 USD (Gross Return) Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "STOXX Europe 600 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "STOXX Europe Select Dividend 30 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "STOXX Europe Total Market",
+    "label": "Equity Index"
+  },
+  {
+    "term": "WisdomTree Dynamic Currency Hedged Europe",
+    "label": "Equity Index"
+  },
+  {
+    "term": "WisdomTree Europe Dividend Growth Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "WisdomTree Europe Dividend Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "WisdomTree Europe Domestic Economy Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "WisdomTree Europe Hedged",
+    "label": "Equity Index"
+  },
+  {
+    "term": "WisdomTree Europe Hedged SmallCap",
+    "label": "Equity Index"
+  },
+  {
+    "term": "WisdomTree Europe SmallCap Dividend Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "WisdomTree Germany Hedged",
+    "label": "Equity Index"
+  },
+  {
+    "term": "WisdomTree United Kingdom Hedged",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Financials Equities (View Financials Equities ETFs)",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Acquirer's Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Beacon Global Exchanges, Brokers & Asset Managers Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dow Jones U.S. Financial Services Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dow Jones U.S. Financials Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dow Jones U.S. Select Insurance Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dow Jones U.S. Select Investment Services Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dow Jones U.S. Select Regional Banks Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dynamic Banking Intellidex Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dynamic Financial Intellidex Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Financial Select Sector Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Global Listed Private",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Insurance Intellidex Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "John Hancock Dimensional Financials Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "KBW Bank Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "KBW Capital Markets Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "KBW Financial Sector Dividend Yield Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "KBW Global ex-U.S. Financial Sector Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "KBW Insurance Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "KBW Mortgage Finance Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "KBW Property & Casualty Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "KBW Regional Banking Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "LPX Direct Listed Private",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Market Vectors US Listed Bank and Brokerage 25 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Morningstar Financial Services Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI All Country World ex USA Financials Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Emerging Markets Financials Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Europe Financials Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI Far East Financials Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI US Investable Market Banks Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI US Investable Market Capital Markets Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI US Investable Market Financials 25/50 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI US Investable Market Financials Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI US Investable Market Insurance Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI US Investable Market Thrifts & Mortgage Finance Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI USA Financials Diversified Multiple-Factor Capped Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI USA IMI Financials Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI World Financials ex-Real Estate Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MSCI World Financials Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MVIS US Business Development Companies Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NASDAQ OMX ABA Community Bank Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Nasdaq U.S. Smart Banks Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Philadelphia PHLX/KBW Bank Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "RevenueShares Financials Sector Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P 1500 Financials Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P 1500 SuperComposite Financial Sector Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P 500 Financial Select Sector Stock Covered Call Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P 500 Financials Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Banks Select Industry Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Capital Markets Select Industry Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Composite 1500 Regional Banks Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Developed Ex-U.S. BMI Financials Sector Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Equal Weight Index Financials",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Global Financials Sector Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Insurance Select Industry Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Listed Private",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P MidCap 400 Capped Financials Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Mortgage Finance Select Industry Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Regional Banks Select Industry Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P SmallCap 600 Financials Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S-BOX China Financials Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Solactive Brazil Financials Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Solactive China Financials Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "StrataQuant Financials Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Toroso ETF Industry Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Wells Fargo Business Development Company Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "WisdomTree International Financial Sector Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "WisdomTree International Financial Sector Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE All-World Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Global 100 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Global 1200 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dow Jones Global Titans 50",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Asia 50 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Dow Jones Asian Titans 50 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE ASEAN 40 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Euro STOXX 50 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Euro STOXX 50 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE Euro 100 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Europe 350 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P Latin America 40 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "SSE Composite Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "SZSE Component Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "CSI 300 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Nikkei 225 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "TOPIX Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "JPX-Nikkei Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "DAX Performance Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "TecDAX Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "MDAX Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE 100 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE All-Share Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE techMark 100 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "CAC 40 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "CAC Next 20 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "CAC Mid 60 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "BSE SENSEX Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "NSE of India Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "Multi Commodity Exchange of India Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE MIB Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE Italia Mid Cap Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "FTSE MIB Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "BOVESPA Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "IBrX 100 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "ITEL Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P/TSX 60 Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P/TSX Composite Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "S&P/TSX Venture Composite Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "KOSPI Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "KOSDAQ Index",
+    "label": "Equity Index"
+  },
+  {
+    "term": "iTraxx",
+    "label": "Credit Index"
+  },
+  {
+    "term": "CDX",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Credit Default Swap Index",
+    "label": "Credit Index"
+  },
+  {
+    "term": "DOW JONES CDX",
+    "label": "Credit Index"
+  },
+  {
+    "term": "LCDX",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Loan Credit Default Swap Index",
+    "label": "Credit Index"
+  },
+  {
+    "term": "MCDX",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx SovX Western Europe",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx SovX CEEMEA",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx SovX CEEMEA ex-EU",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx SovX Asia Pacific",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx SovX Latin America",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx SovX Global Liquid Investment Grade",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx SovX G7",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx SovX BRIC",
+    "label": "Credit Index"
+  },
+  {
+    "term": "CDS on CDO",
+    "label": "Credit Index"
+  },
+  {
+    "term": "AsiaCorporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Australia Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Emerging European Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Emerging European Corporate LPN",
+    "label": "Credit Index"
+  },
+  {
+    "term": "European Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Japan Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Latin America Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Latin America Corporate Bond",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Latin America Corporate Bond Or Loan",
+    "label": "Credit Index"
+  },
+  {
+    "term": "New Zealand Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "North American Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Singapore Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard Asia Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard Australia Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard Emerging European Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard Emerging European Corporate LPN",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard Japan Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard Latin America Corporate Bond",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard Latin America Corporate Bond Or Loan",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard New Zealand Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard North American Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard Singapore Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard Subordinated European Insurance Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard Sukuk Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Subordinated European Insurance Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Sukuk Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard European Corporate",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Fixed Recovery Swap",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Recovery Locks",
+    "label": "Credit Index"
+  },
+  {
+    "term": "ELCDS",
+    "label": "Credit Index"
+  },
+  {
+    "term": "LCDS",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard LCDS Bullet",
+    "label": "Credit Index"
+  },
+  {
+    "term": "US Municipal Full Faith And Credit",
+    "label": "Credit Index"
+  },
+  {
+    "term": "US Municipal General Fund",
+    "label": "Credit Index"
+  },
+  {
+    "term": "US Municipal Revenue",
+    "label": "Credit Index"
+  },
+  {
+    "term": "StandardUS Municipal Full Faith And Credit",
+    "label": "Credit Index"
+  },
+  {
+    "term": "StandardUS Municipal General Fund",
+    "label": "Credit Index"
+  },
+  {
+    "term": "StandardUS Municipal Revenue",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Asia Sovereign",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Australia Sovereign",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Emerging European And Middle Eastern Sovereign",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Japan Sovereign",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Latin America Sovereign",
+    "label": "Credit Index"
+  },
+  {
+    "term": "New Zealand Sovereign",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Singapore Sovereign",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard Asia Sovereign",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard Australia Sovereign",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard Emerging European And Middle Eastern Sovereign",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard Japan Sovereign",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard Latin America Sovereign",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard New Zealand Sovereign",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard Singapore Sovereign",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard Sukuk Sovereign",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard Western European Sovereign",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Sukuk Sovereign",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Western European Sovereign",
+    "label": "Credit Index"
+  },
+  {
+    "term": "MBS",
+    "label": "Credit Index"
+  },
+  {
+    "term": "European MBS",
+    "label": "Credit Index"
+  },
+  {
+    "term": "CDX Tranche HY",
+    "label": "Credit Index"
+  },
+  {
+    "term": "CDX Tranche IG",
+    "label": "Credit Index"
+  },
+  {
+    "term": "CDX Tranche XO",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard CDX Tranche HY",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard CDX Tranche IG",
+    "label": "Credit Index"
+  },
+  {
+    "term": "LCDX Tranche",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard LCDX Bullet Tranche",
+    "label": "Credit Index"
+  },
+  {
+    "term": "MCDX Tranche",
+    "label": "Credit Index"
+  },
+  {
+    "term": "CDX Blended Tranche",
+    "label": "Credit Index"
+  },
+  {
+    "term": "CDX Risky Zero Tranche",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx Asia Ex Japan Tranche",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx Australia Tranche",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx Europe Tranche",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx Japan Tranche",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard iTraxx Europe Tranche",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx Blended Tranche",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx Risky Zero Tranche",
+    "label": "Credit Index"
+  },
+  {
+    "term": "ABX Tranche",
+    "label": "Credit Index"
+  },
+  {
+    "term": "CDX HY",
+    "label": "Credit Index"
+  },
+  {
+    "term": "CDX IG",
+    "label": "Credit Index"
+  },
+  {
+    "term": "CDX XO",
+    "label": "Credit Index"
+  },
+  {
+    "term": "CDX Emerging Markets",
+    "label": "Credit Index"
+  },
+  {
+    "term": "CDX Emerging Markets Diversified",
+    "label": "Credit Index"
+  },
+  {
+    "term": "LCDX",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Standard LCDX Bullet",
+    "label": "Credit Index"
+  },
+  {
+    "term": "MCDX",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx Asia Ex Japan",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx Australia",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx Europe",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx Japan",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx Lev X",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx Sov X",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Itraxx SDI",
+    "label": "Credit Index"
+  },
+  {
+    "term": "ABX HE",
+    "label": "Credit Index"
+  },
+  {
+    "term": "CMBX",
+    "label": "Credit Index"
+  },
+  {
+    "term": "IOS",
+    "label": "Credit Index"
+  },
+  {
+    "term": "MBX",
+    "label": "Credit Index"
+  },
+  {
+    "term": "PO",
+    "label": "Credit Index"
+  },
+  {
+    "term": "PrimeX",
+    "label": "Credit Index"
+  },
+  {
+    "term": "TRX",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx Asia Ex Japan Swaption",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx Australia Swaption",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx Japan Swaption",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx Sov X Swaption",
+    "label": "Credit Index"
+  },
+  {
+    "term": "CDS Swaption",
+    "label": "Credit Index"
+  },
+  {
+    "term": "CDX Swaption",
+    "label": "Credit Index"
+  },
+  {
+    "term": "MCDX Swaption",
+    "label": "Credit Index"
+  },
+  {
+    "term": "iTraxx Europe Swaption",
+    "label": "Credit Index"
+  },
+  {
+    "term": "CDS Swaption",
+    "label": "Credit Index"
+  },
+  {
+    "term": "CDS Swaption",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Ref ob only",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Contingent CDS",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Index Contingent CDS",
+    "label": "Credit Index"
+  },
+  {
+    "term": "First to Default Nth to Default",
+    "label": "Credit Index"
+  },
+  {
+    "term": "Bespoke Tranche",
+    "label": "Credit Index"
+  }
+]

@@ -10,4 +10,4 @@ TwoWord.py is the disambiguation analysis for two-word hypernyms.
 
 load_vec.py is used to load pre-traind word vectors.
 
-(I will re-organize the codes in future~)
+(I will re-organize the codes in the future that will never comes)
